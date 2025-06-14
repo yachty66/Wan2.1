@@ -1,3 +1,4 @@
+1. start a gpu best case with torch 2.4 env (runpod/pytorch:2.4.0-py3.11-cuda12.4.1-devel-ubuntu22.04) to make following setup easier 
 1. git clone https://github.com/yachty66/Wan2.1.git
 2. pip install -r requirements.txt 
     - in the case its failing (python -m pip install ninja packaging)
