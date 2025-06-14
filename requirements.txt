@@ -1,5 +1,5 @@
-torch>=2.4.0
-torchvision>=0.19.0
+torch==2.1.0
+torchvision==0.16.0
 opencv-python>=4.9.0.80
 diffusers>=0.31.0
 transformers>=4.49.0
@@ -11,6 +11,6 @@ easydict
 ftfy
 dashscope
 imageio-ffmpeg
-flash_attn
+flash-attn==2.5.8
 gradio>=5.0.0
 numpy>=1.23.5,<2

@@ -1,5 +1,4 @@
-python generate.py \
- --task t2v-14B \
- --size 1280*720 \
- --ckpt_dir ./Wan2.1-T2V-14B \
- --prompt "A beautiful cinematic shot of a boat sailing on the ocean at sunset."
+## todo 
+
+- run the model on different gpu constellations until the generation time of the video is as at < 2min 
+- calculate the cost of it and share it in the whatsapp group
